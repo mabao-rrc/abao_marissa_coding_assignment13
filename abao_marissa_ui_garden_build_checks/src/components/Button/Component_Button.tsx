@@ -7,6 +7,7 @@
  * Description: This file defines the Button component, which supports a label, optional click handler, and a disabled state.
  * Styled-components are used for styling and to ensure responsiveness and reusability.
  */
+// Testing husky pre-commit
 
 import React from 'react';
 import styled from 'styled-components';
